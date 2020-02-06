@@ -1,5 +1,5 @@
 const express = require('express');
-const socksRoutes = require('./routes/moviesdb');
+const moviesRoutes = require('./routes/movies');
 const app = express();
 const port = process.env.PORT || 3000;
 
