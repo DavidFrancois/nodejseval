@@ -1,0 +1,23 @@
+{
+  "name": "nodejseval",
+  "version": "1.0.0",
+  "description": "Node js final exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidFrancois/nodejseval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidFrancois/nodejseval/issues"
+  },
+  "homepage": "https://github.com/DavidFrancois/nodejseval#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  }
+}
